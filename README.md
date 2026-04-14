@@ -10,7 +10,7 @@ This project presents an integrated embedded solution for real-time hardware mon
 * **High-Speed SPI Display:** Implemented low-latency **SPI communication** for a local TFT LCD interface, providing immediate system status updates and user feedback.
 * **Interrupt-Driven Firmware:** The entire firmware is architected using **STM32 HAL** and an **interrupt-based model**, ensuring efficient CPU utilization and real-time multitasking responsiveness.
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 * **Languages:** Embedded C (Firmware), C++ (Qt Application).
 * **Microcontroller:** STM32 (F1/F4 Series).
 * **Communication Protocols:** UART (Custom Framing), I2C, SPI.
