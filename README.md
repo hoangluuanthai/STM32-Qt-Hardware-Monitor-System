@@ -25,5 +25,5 @@ Luồng dữ liệu của hệ thống được tổ chức như sau:
 * `pc-app/`: Chứa mã nguồn ứng dụng máy tính viết bằng Qt (file `CMakeLists.txt`, `.cpp`, `.h`, `.ui`).
 
 ---
-**Tác giả:** Hoàng Lưu An Thái
-**Lĩnh vực:** Kỹ thuật Nhúng & Tự động hóa
+**Author:** Hoàng Lưu An Thái  
+**Field:** Automation & Control Engineering
